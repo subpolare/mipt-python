@@ -6,6 +6,8 @@
 
 Задавать свои вопросы можно при помощи [почты](mailto:nachatoi@list.ru) и [telegram](https://t.me/subpolare) напрямую преподавателю, Владиславу Андреевичу Начатому. 
 
+**Решения заданий необходимо отправлять преподавателю по указанным выше контактам. Дедлайн: 01:00 28 ноября 2023.**
+
 |  | Лекция | Блокнот | Задания | Описание | 
 | :------: | :------: | :------: | :------: | :------ | 
 | 1 | [Запись лекции](https://disk.yandex.ru/i/FakAv4AdWtZL_Q) | [Блокнот](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) | Типы переменных, работа с переменными типов `int`, `str` и `float`. | 
