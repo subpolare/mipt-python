@@ -14,7 +14,7 @@
 |  |  |  |  |  |  |  |  |
 | 1 | Археи | 29.10, 12:05 | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) | Форматы CSV и FASTA, работа с файлами | 
 | 2 | Археи | 30.10, 17:50 | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) | Модули `random`, `math`, `numpy` и `pandas` | 
-| 3 | Археи | 1.11, 17:50 | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | Запись | [Блокнот]() | Модули `matplotlib` и `seaborn` | 
+| 3 | Археи | 1.11, 17:50 | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) | Модули `matplotlib` и `seaborn` | 
 | 4 | Все | 2.11, 17:00 | [Презентация]() | Запись | — | Программирования в биоинформатике | 
 
 
