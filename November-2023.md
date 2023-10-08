@@ -12,9 +12,9 @@
 | 2 | Бактерии | 30.10, 17:00 | [Блокнот](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) | Условные операторы и циклы |
 | 3 | Бактерии | 1.11, 17:00 | [Блокнот](https://colab.research.google.com/drive/13y1J3-1HQUpRnXi3KdJ-C-WzoOfD3GYk?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) | Массивы и работа с файлами | 
 |  |  |  |  |  |  |  |  |
-| 1 | Археи | 29.10, 12:05 | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) | Форматы CSV и FASTA, работа с файлами | 
-| 2 | Археи | 30.10, 17:50 | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) | Модули `random`, `math`, `numpy` и `pandas` | 
-| 3 | Археи | 1.11, 17:50 | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) | Модули `matplotlib` и `seaborn` | 
+| 4 | Археи | 29.10, 12:05 | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) | Форматы CSV и FASTA, работа с файлами | 
+| 5 | Археи | 30.10, 17:50 | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) | Модули `random`, `math`, `numpy` и `pandas` | 
+| 6 | Археи | 1.11, 17:50 | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) | Модули `matplotlib` и `seaborn` | 
 |  |  |  |  |  |  |  |  |
 | 4 | Обе группы | 2.11, 17:00 | [Презентация]() | Запись | — | Программирования в биоинформатике | 
 
