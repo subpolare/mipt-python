@@ -12,7 +12,6 @@
 | 2 | Бактерии | 30.10, 17:00 | [Блокнот](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) | Условные операторы и циклы |
 | 3 | Бактерии | 1.11, 17:00 | [Блокнот](https://colab.research.google.com/drive/13y1J3-1HQUpRnXi3KdJ-C-WzoOfD3GYk?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) | Массивы и работа с файлами | 
 | 4 | Все | 2.11, 17:00 | [Презентация]() | Запись | — | Программирования в биоинформатике | 
-
 |  |  |  |  |  |  |  | 
 | 1 | Археи | 29.10, 12:05 | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) | Форматы CSV и FASTA, работа с файлами | 
 | 2 | Археи | 30.10, 17:50 | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | Запись | [Блокнот]() | Модули `random`, `math`, `numpy` и `pandas` | 
