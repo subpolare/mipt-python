@@ -11,7 +11,7 @@
 Блок по программированию на Python в Осенней олимпиадной школе МФТИ по компьютерной биологии. При возникновении вопросов, можно задавать их либо кураторам, либо преподавателю в любое время дня и ночи. Решенные задания необходимо отправить до начала следующего занятия по тем же контактам преподавателю (это можно делать анонимно, не подписываясь).  
 
 |  | Группа | Дата | Материалы | Записи | Задания | Описание | 
-| :------: |  | :------: | :------: | :------: | :------: | :------ | 
+| :------: | ------ | :------: | :------: | :------: | :------: | :------ | 
 | 1 | 29.10, Часть I | [Блокнот](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) | Типы переменных | 
 | 2 | 29.10, Часть II | [Блокнот](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) | Условные операторы и циклы |
 | 3 | 30.10, Часть I | [Блокнот](https://colab.research.google.com/drive/13y1J3-1HQUpRnXi3KdJ-C-WzoOfD3GYk?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) | Массивы и работа с файлами | 
