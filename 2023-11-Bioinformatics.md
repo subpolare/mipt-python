@@ -20,7 +20,7 @@
 | 5 | 1.11 | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) | Модули `random`, `math`, `numpy` и `pandas` | 
 | 6 | 1.11 | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | Запись | [Блокнот](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) | Модули `matplotlib` и `seaborn` | 
 |  |  |  |  |  |  |  |
-| 7 | 2.11, 17:00 | — | Запись | — | Программирования в биоинформатике | 
+| 7 | 2.11 | — | Запись | — | Программирования в биоинформатике | 
 
 На занятиях было опущено несколько фундаментальных тем, которыми можно продолжить изучение: f-строки, кортежи, множества, функции (в том числе лямбда) и классы, а также не рассматривались многие предустановленные библиотеки: `os`, `sys`, `glob` и другие. 
 
