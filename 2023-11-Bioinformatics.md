@@ -24,6 +24,6 @@
 
 ### Дополнительные материалы
 
-* Дополнительную литературу и лекции по блоку можно найти по ссылке [в соответствующей статье](https://vk.com/@nachatoi-literatura-po-python)
-* Анекдот про биоинформатика — на [сайте «Элементы»](https://elementy.ru/nauchno-populyarnaya_biblioteka/432183/Bioinformatiki_proiskhozhdenie_i_zhiznennyy_tsikl) :)
-* Статью про варианты старт- и стоп-кодонов и их эволюцию к задачам четвертой лекции также на [сайте «Элементы»](https://elementy.ru/problems/3023/Ot_nachala_do_kontsa)
+* Дополнительную литературу и лекции по блоку можно найти по ссылке [в соответствующей статье](https://vk.com/@nachatoi-literatura-po-python).
+* Анекдот про биоинформатика — на [сайте «Элементы»](https://elementy.ru/nauchno-populyarnaya_biblioteka/432183/Bioinformatiki_proiskhozhdenie_i_zhiznennyy_tsikl). Всем советую прочитать!
+* Статью про варианты старт- и стоп-кодонов и их эволюцию к задачам четвертой лекции также на [сайте «Элементы»](https://elementy.ru/problems/3023/Ot_nachala_do_kontsa).
