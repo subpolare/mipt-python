@@ -10,7 +10,7 @@
 
 |  | Дата | Материалы | Записи | Задания | Описание | 
 | :------: | :------: | :------: | :------: | :------: | :------ |
-| 1 | 29.10 | [Блокнот](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | [Запись](https://vk.com/video230149364_456239188) | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) и [ответы](https://colab.research.google.com/drive/1gUbwTt9pf2q-WhatVAkLvAcAtXEkBDh4?usp=sharing) | Типы переменных | 
+| 1 | 29.10 | [Блокнот](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) и [ответы](https://colab.research.google.com/drive/1gUbwTt9pf2q-WhatVAkLvAcAtXEkBDh4?usp=sharing) | Типы переменных | 
 | 2 | 29.10 | [Блокнот](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) и [ответы](https://colab.research.google.com/drive/1cr89eyvNPlGTfFAWU5PUdSHmGut4GYiI?usp=sharing) | Условные операторы и циклы |
 | 3 | 30.10 | [Блокнот](https://colab.research.google.com/drive/13y1J3-1HQUpRnXi3KdJ-C-WzoOfD3GYk?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) | Массивы и работа с файлами | 
 |  |  |  |  |  |  |  |
