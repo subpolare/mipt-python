@@ -15,8 +15,8 @@
 | 3 | 30.10 | [Блокнот](https://colab.research.google.com/drive/13y1J3-1HQUpRnXi3KdJ-C-WzoOfD3GYk?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) и [ответы](https://colab.research.google.com/drive/1Da3KFbwtjo_JB0eSeIuP2tkwq4aXU1LK?usp=sharing) | Массивы и работа с файлами | 
 |  |  |  |  |  |  |  |
 | 4 | 30.10 | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) и [ответы](https://colab.research.google.com/drive/11Q37neyf1ZcVmlg9Z1d6WMgeLWtSijLK?usp=sharing) | Форматы CSV и FASTA, работа с файлами | 
-| 5 | 1.11 | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) | Модули `random`, `math`, `numpy` и `pandas` | 
-| 6 | 1.11 | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) | Модули `matplotlib` и `seaborn` | 
+| 5 | 1.11 | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) и [ответы](https://colab.research.google.com/drive/13u9YiSGsLjx1V7vjpfYkPFCN-VsODbcK?usp=sharing) | Модули `random`, `math`, `numpy` и `pandas` | 
+| 6 | 1.11 | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) и [ответы](https://colab.research.google.com/drive/1w1clnssJ-h01gLv6Z6s52EZWPRWES5Vk?usp=sharing) | Модули `matplotlib` и `seaborn` | 
 |  |  |  |  |  |  |  |
 | 7 | 2.11 | — | Запись | — | Программирование в биоинформатике | 
 
