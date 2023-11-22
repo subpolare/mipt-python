@@ -11,3 +11,4 @@
 | 3 | Август 2023 | [Филогенетика и Python](https://github.com/subpolare/mipt-python/blob/main/2023-08-Bioinformatics.md) | 9-10 | В. Начатой, Е. Рюмина и У. Деменева | Выравнивания и построение филогенетических деревьев, а также основы программирования на Python | 
 | 4 | Октябрь 2023 | [Краткое введение в Python](https://github.com/subpolare/mipt-python/blob/main/2023-11-Intro.md) | 9-11 | В. Начатой | Дистанционный курс, краткое введение в основные функции Python | 
 | 5 | Ноябрь 2023 | [Молекулярная динамика и Python](https://github.com/subpolare/mipt-python/blob/main/2023-11-Bioinformatics.md) | 9-11 | В. Начатой, Е. Укладов | Введение в основные функции Python и различные его библиотеки, а также применение в биологии и биоинформатике | 
+| 6 | Январь 2024 | [Молекулярная динамика и Python](https://github.com/subpolare/mipt-python/blob/main/2024-01-Bioinformatics.md) | 9-11 | В. Начатой, Н. Кристовский | Введение в Python и молекулярная динамика | 
