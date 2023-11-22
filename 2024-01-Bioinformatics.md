@@ -21,7 +21,8 @@
 | 6 | _.1 | [Jupyter Lab](https://disk.yandex.ru/d/JHp8ld9WcVmTeQ) и [Colab](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | [Jupyter Lab](https://disk.yandex.ru/d/25xmSy8WMi4IuQ) и [Colab](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) | Jupyter Lab и Colab | Модули `matplotlib` и `seaborn` | 
 |  |  |  |  |  |  | 
 
-Все материалы с занятий доступны в одной папке на [Яндекс.Диске](https://disk.yandex.ru/d/R_eNVtOLnLQEfg). На занятиях было опущено несколько фундаментальных тем, которыми можно продолжить изучение: f-строки, кортежи, множества, функции (в том числе лямбда) и классы, а также не рассматривались многие предустановленные библиотеки: `os`, `sys`, `glob` и другие. 
+* **Скачать всё и сразу** Все материалы с занятий доступны в одной папке на [Яндекс.Диске](https://disk.yandex.ru/d/O1bFXsWLFQS1QA), в [другой папке](https://disk.yandex.ru/d/t8EoCaYie2XOew) можно посмотреть задания на дом. Ответы будут выложены после окончания курса. 
+* **Что еще можно узнать?** На занятиях было опущено несколько фундаментальных тем, которыми можно продолжить изучение: f-строки, кортежи, множества, функции (в том числе лямбда) и классы, а также не рассматривались многие предустановленные библиотеки: `os`, `sys`, `glob` и другие. 
 
 ### Дополнительные материалы
 
