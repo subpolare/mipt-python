@@ -8,8 +8,8 @@
 
 Занятия будут проходить с использованием программы с веб-интерфейсом jupyterLab (инструкция по установке есть [по ссылке](https://jupyter.org/install)). Блокноты для работы лежат по ссылкам в таблице ниже. В качестве альтернативы можно использовать онлайн-платформу [Google Colaboratory](https://colab.research.google.com/), ссылки на блокноты в ней также есть ниже, но советую освоиться в Jupyter Lab, чтобы было попроще во время блока по молекулярной динамике. 
 
-|  | Дата | Материалы с занятий | Задания | Описание | 
-| :------: | :------: | :------: | :------: | :------ |
+|  | Дата | Материалы с занятий | Задания | Ответы | Описание | 
+| :------: | :------: | :------: | :------: | :------: | :------ |
 | 1 | _.1 | [Jupyter Lab](https://disk.yandex.ru/d/595qpr4kyREakw) и [Colab](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) и ответы | Типы переменных | 
 | 2 | _.1 | [Jupyter Lab](https://disk.yandex.ru/d/TU2GYJB1SgX6XQ) и [Colab](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | [Задания](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) и ответы | Условные операторы и циклы |
 | 3 | _.1 | [Jupyter Lab](https://disk.yandex.ru/d/wMNJKOyByOHP4w) и [Colab](https://colab.research.google.com/drive/1OFYOCV9XR9b0iXKmtTs51fH9ycldqZaA?usp=sharing) | [Задания](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) и ответы | Массивы и работа с файлами | 
