@@ -12,9 +12,7 @@
 
 |  | Дата | Материалы с занятий | Задания | Ответы | Описание | 
 | :------: | :------: | :------: | :------: | :------: | :------ |
-| 1 | _.1 | 
-[Jupyter Lab](https://disk.yandex.ru/d/595qpr4kyREakw) и 
-[Colab](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | [Jupyter Lab](https://disk.yandex.ru/d/mxW9DushZtXjqw) и [Colab](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing)  | Jupyter Lab и Colab | Типы переменных в Python (Часть I) | 
+| 1 | _.1 | [Jupyter Lab](https://disk.yandex.ru/d/595qpr4kyREakw) и [Colab](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | [Jupyter Lab](https://disk.yandex.ru/d/mxW9DushZtXjqw) и [Colab](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing)  | Jupyter Lab и Colab | Типы переменных в Python (Часть I) | 
 | 2 | _.1 | [Jupyter Lab](https://disk.yandex.ru/d/TU2GYJB1SgX6XQ) и [Colab](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | [Jupyter Lab](https://disk.yandex.ru/d/1e91EUcIK9bYtA) и [Colab](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) | Jupyter Lab и Colab | Условные операторы и циклы |
 | 3 | _.1 | [Jupyter Lab](https://disk.yandex.ru/d/wMNJKOyByOHP4w) и [Colab](https://colab.research.google.com/drive/1OFYOCV9XR9b0iXKmtTs51fH9ycldqZaA?usp=sharing) | [Jupyter Lab](https://disk.yandex.ru/d/iXVshKjlmE2nVA) и [Colab](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) | Jupyter Lab и Colab | Типы переменных в Python (Часть II) | 
 |  |  |  |  |  |  |
