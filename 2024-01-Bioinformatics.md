@@ -8,16 +8,16 @@
 
 Если материал занятий кажется вам простым, приступайте к выполнению задач следующих занятий и в особенности занятий 4-7: они посложнее, поближе к науке и поинтереснее. Решения тоже можете отправлять преподавателю. 
 
-|  | Дата | JupyterLab | Colab | Записи | Задания | Описание | 
-| :------: | :------: | :------: | :------: | :------: | :------: | :------ |
-| 1 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) и ответы | Типы переменных | 
-| 2 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) и ответы | Условные операторы и циклы |
-| 3 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1OFYOCV9XR9b0iXKmtTs51fH9ycldqZaA?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) и ответы | Массивы и работа с файлами | 
-|  |  |  |  |  |  |  |  | 
-| 4 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) и ответы | Форматы CSV и FASTA, работа с файлами | 
-| 5 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) и ответы | Модули `random`, `math`, `numpy` и `pandas` | 
-| 6 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | Запись | [Задания](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) и ответы | Модули `matplotlib` и `seaborn` | 
-|  |  |  |  |  |  |  |  | 
+|  | Дата | JupyterLab | Colab | Задания | Описание | 
+| :------: | :------: | :------: | :------: | :------: | :------ |
+| 1 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) и ответы | Типы переменных | 
+| 2 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | [Задания](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) и ответы | Условные операторы и циклы |
+| 3 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1OFYOCV9XR9b0iXKmtTs51fH9ycldqZaA?usp=sharing) | [Задания](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) и ответы | Массивы и работа с файлами | 
+|  |  |  |  |  |  |  |
+| 4 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) и ответы | Форматы CSV и FASTA, работа с файлами | 
+| 5 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) и ответы | Модули `random`, `math`, `numpy` и `pandas` | 
+| 6 | _.1 | Блокнот | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) и ответы | Модули `matplotlib` и `seaborn` | 
+|  |  |  |  |  |  |  | 
 
 На занятиях было опущено несколько фундаментальных тем, которыми можно продолжить изучение: f-строки, кортежи, множества, функции (в том числе лямбда) и классы, а также не рассматривались многие предустановленные библиотеки: `os`, `sys`, `glob` и другие. 
 
