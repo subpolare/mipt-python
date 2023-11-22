@@ -23,7 +23,6 @@
 | 4 | _.1 | [Jupyter](https://disk.yandex.ru/d/0ftdblBFf2lTYg) и [Colab](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | [Jupyter](https://disk.yandex.ru/d/6yRboKkikTZ9vg) и [Colab](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) | Jupyter и Colab | CSV и FASTA, работа с ними | 
 | 5 | _.1 | [Jupyter](https://disk.yandex.ru/d/Zp1DiRH_8BpGxw) и [Colab](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | [Jupyter](https://disk.yandex.ru/d/3F7uYXsLfB4VSg) и [Colab](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) | Jupyter и Colab | Модули `random`, `math`, `numpy` и `pandas` | 
 | 6 | _.1 | [Jupyter](https://disk.yandex.ru/d/JHp8ld9WcVmTeQ) и [Colab](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | [Jupyter](https://disk.yandex.ru/d/25xmSy8WMi4IuQ) и [Colab](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) | Jupyter и Colab | Модули `matplotlib` и `seaborn` | 
-|  |  |  |  |  |  | 
 
 ## Дополнительные материалы
 
