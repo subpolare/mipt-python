@@ -11,4 +11,3 @@
 | 3 | Август 2023 | [Филогенетика и Python](https://github.com/subpolare/mipt-python/blob/main/2023-08-Bioinformatics.md) | 9 – 10 | Начатой В. А., Рюмина  Е. Д., Деменева У. И. | Выравнивания и построение филогенетических деревьев, а также основы программирования на Python | 
 | 4 | Октябрь 2023 | [Python](https://github.com/subpolare/mipt-python/blob/main/2023-11-Intro.md) | 9 – 11 | Начатой В. А. | Дистанционный курс: краткое введение в основные функции Python | 
 | 5 | Ноябрь 2023 | [Python](https://github.com/subpolare/mipt-python/blob/main/2023-11-Bioinformatics.md) | 9 – 11 | Начатой В. А. | Дистанционный курс: использование Python в биологии | 
-| 6 | Январь 2024 | [Python](https://github.com/subpolare/mipt-python/blob/main/2024-01-Bioinformatics.md) | 9 – 11 | Начатой В. А. | Введение в Python и его использование в биоинформатике | 
