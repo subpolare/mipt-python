@@ -16,15 +16,15 @@
 
 📖 **Что еще можно узнать?** На занятиях было опущено несколько фундаментальных тем, которыми можно продолжить изучение: f-строки, кортежи, множества, функции (в том числе лямбда) и классы, а также не рассматривались многие предустановленные библиотеки: `os`, `sys`, `glob` и другие. 
 
-|  | Дата | Материалы с занятия | Задания | Ответы | Что было на занятии? | 
-| :------: | :------: | :------: | :------: | :------: | ------ |
-| 1 | Январь | [Jupyter](https://disk.yandex.ru/d/595qpr4kyREakw) и [Colab](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | [Jupyter](https://disk.yandex.ru/d/mxW9DushZtXjqw) и [Colab](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing)  | Jupyter и Colab | Типы переменных в Python (Часть I) | 
-| 2 | Январь | [Jupyter](https://disk.yandex.ru/d/TU2GYJB1SgX6XQ) и [Colab](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | [Jupyter](https://disk.yandex.ru/d/1e91EUcIK9bYtA) и [Colab](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) | Jupyter и Colab | Условные операторы и циклы |
-| 3 | Январь | [Jupyter](https://disk.yandex.ru/d/wMNJKOyByOHP4w) и [Colab](https://colab.research.google.com/drive/1OFYOCV9XR9b0iXKmtTs51fH9ycldqZaA?usp=sharing) | [Jupyter](https://disk.yandex.ru/d/iXVshKjlmE2nVA) и [Colab](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) | Jupyter и Colab | Массивы и файлы | 
-|  |  |  |  |  |  |
-| 4 | Январь | [Jupyter](https://disk.yandex.ru/d/0ftdblBFf2lTYg) и [Colab](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | [Jupyter](https://disk.yandex.ru/d/6yRboKkikTZ9vg) и [Colab](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) | Jupyter и Colab | CSV и FASTA, работа с ними | 
-| 5 | Январь | [Jupyter](https://disk.yandex.ru/d/Zp1DiRH_8BpGxw) и [Colab](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | [Jupyter](https://disk.yandex.ru/d/3F7uYXsLfB4VSg) и [Colab](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) | Jupyter и Colab | Модули `random`, `math`, `numpy` и `pandas` | 
-| 6 | Январь | [Jupyter](https://disk.yandex.ru/d/JHp8ld9WcVmTeQ) и [Colab](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | [Jupyter](https://disk.yandex.ru/d/25xmSy8WMi4IuQ) и [Colab](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) | Jupyter и Colab | Модули `matplotlib` и `seaborn` | 
+|  | Дата | Материалы | Что задано на дом? | Что было на занятии? | 
+| :------: | :------: | :------: | :------: | :------ |
+| 1 | 29.10 | [Блокнот](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) | Типы переменных | 
+| 2 | 29.10 | [Блокнот](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | [Задания](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) | Условные операторы и циклы |
+| 3 | 30.10 | [Блокнот](https://colab.research.google.com/drive/1OFYOCV9XR9b0iXKmtTs51fH9ycldqZaA?usp=sharing) | [Задания](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) | Массивы и работа с файлами | 
+|  |  |  |  |  |  |  |
+| 4 | 30.10 | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) | Форматы CSV и FASTA, работа с файлами | 
+| 5 | 1.11 | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) | Модули `random`, `math`, `numpy` и `pandas` | 
+| 6 | 1.11 | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) | Модули `matplotlib` и `seaborn` | 
 
 ## Дополнительные материалы
 
