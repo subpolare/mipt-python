@@ -8,7 +8,7 @@
 
 ❓ **А если я не понял?** Если возникнут вопросы, можно задавать их либо кураторам, либо преподавателю в любое время дня и ночи. Решенные задания нужно отправить преподавателю до конца блока.
 
-✨ **Зачем нужны домашние задания?** На занятиях будет система дормашних работ. За их выполнение будут ставиться баллы: максимум за Python и филогенетику можно получить 40 баллов. Потом эти баллы будут засчитаны как дополнительные при выполнении олимпиады 26 июля. Посмотреть результаты их выполнения можно в [интерактивной таблице](https://docs.google.com/spreadsheets/d/12SAz-ajpJ72tRtfzQVEWvJzzayB0Xi3urlNHoYRY5Fs/edit?usp=sharing). 
+✨ **Зачем нужны домашние задания?** На занятиях будет система дормашних работ. Баллы за их выполнение будут засчитаны как дополнительные при выполнении олимпиады 26 июля. Посмотреть результаты их выполнения можно в [интерактивной таблице](https://docs.google.com/spreadsheets/d/12SAz-ajpJ72tRtfzQVEWvJzzayB0Xi3urlNHoYRY5Fs/edit?usp=sharing). По любой домашней работе можно задавать вопросы и просить подсказки в решении у преподавателя. 
 
 ## Программирование на Python
 
@@ -20,13 +20,13 @@
 
 |  | Дата | Материалы | Домашка | Что было на занятии? | 
 | :------: | :------: | :------: | :------: | :------ |
-| 1 | 29.10 | [Блокнот](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) (3 балла) | Основные типы переменных в Python | 
-| 2 | 29.10 | [Блокнот](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | [Задания](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) (3 балла) | Условные операторы `if`, `elif`, `else` и циклы `for` и `while` |
-| 3 | 30.10 | [Блокнот](https://colab.research.google.com/drive/1OFYOCV9XR9b0iXKmtTs51fH9ycldqZaA?usp=sharing) | [Задания](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) (3 балла) | Массивы и работа с файлами | 
+| 1 | 17.07 | [Блокнот](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) (3 балла) | Основные типы переменных в Python | 
+| 2 | 18.07 | [Блокнот](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | [Задания](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) (3 балла) | Условные операторы `if`, `elif`, `else` и циклы `for` и `while` |
+| 3 | 19.07 | [Блокнот](https://colab.research.google.com/drive/1OFYOCV9XR9b0iXKmtTs51fH9ycldqZaA?usp=sharing) | [Задания](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) (3 балла) | Массивы и работа с файлами | 
 |  |  |  |  |  |  |  |
-| 4 | 30.10 | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) (5 баллов) | Форматы CSV и FASTA, работа с файлами | 
-| 5 | 1.11 | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) (5 баллов) | Модули `random`, `math`, `numpy` и `pandas` | 
-| 6 | 1.11 | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) (5 баллов) | Модули `matplotlib` и `seaborn` | 
+| 4 | 20.07 | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) (5 баллов) | Форматы CSV и FASTA, работа с файлами | 
+| 5 | 22.07 | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) (5 баллов) | Модули `random`, `math`, `numpy` и `pandas` | 
+| 6 | — | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) (5 баллов) | Модули `matplotlib` и `seaborn` | 
 
 ## Филогенетический анализ
 
@@ -34,13 +34,13 @@
 
 ✨ **Домашние задания.** В этом блоке два задания: [домашнее](https://disk.yandex.ru/d/EwOYW0IOBqgpwA) (10 баллов) и [в классе](https://disk.yandex.ru/i/ZsLp_5ZLMBJCOg) (на последнем семинаре, 6 баллов). Они также будут засчитаны как дополнительные баллы к результатам олимпиады в конце смены. 
 
-|  | Ссылки | Краткое описание |
-| :------: | :------ | :------ | 
-| 1 | Презентация | Введение в эволюцию последовательностей | 
-| 2 | [NCBI](https://www.ncbi.nlm.nih.gov) ([BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)), [UniProt](https://www.uniprot.org), [PDB](https://www.rcsb.org), Презентация | Базы данных и математичесие основы выравниваний  | 
-| 3 | Презентация, [PSA](https://www.ebi.ac.uk/Tools/psa/), [MSA](https://www.ebi.ac.uk/Tools/msa/), [Jalview](https://www.jalview.org/download/windows/) | BLAST и выравнивания | 
-| 4 | Презентация | Математические основы филогенетики |
-| 5 | [Tree](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/), [MEGA](https://www.megasoftware.net), [Выход BLAST](https://disk.yandex.ru/d/L1AkyP39_mRuXA) | Построение деревьев | 
+|  | Дата | Ссылки | Краткое описание |
+| :------: | :------: | :------ | :------ | 
+| 1 | 17.07 | Презентация | Введение в эволюцию последовательностей | 
+| 2 | 20.07 | [NCBI](https://www.ncbi.nlm.nih.gov) ([BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)), [UniProt](https://www.uniprot.org), [PDB](https://www.rcsb.org), Презентация | Базы данных и математичесие основы выравниваний  | 
+| 3 | 22.07 | Презентация, [PSA](https://www.ebi.ac.uk/Tools/psa/), [MSA](https://www.ebi.ac.uk/Tools/msa/), [Jalview](https://www.jalview.org/download/windows/) | BLAST и выравнивания | 
+| 4 | 23.07 | Презентация | Математические основы филогенетики |
+| 5 | 24.07 | [Tree](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/), [MEGA](https://www.megasoftware.net), [Выход BLAST](https://disk.yandex.ru/d/L1AkyP39_mRuXA) | Построение деревьев | 
 
 ## Дополнительные материалы
 
