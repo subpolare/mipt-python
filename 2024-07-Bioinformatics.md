@@ -26,7 +26,7 @@
 |  |  |  |  |  |  |  |
 | 4 | 20.07 | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) (5 баллов) | Форматы CSV и FASTA, работа с файлами | 
 | 5 | 22.07 | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1BGnPEcXWXbW6WzceUXGbhZ1idMnhqS9M?usp=sharing) (5 баллов) | Модули `random`, `math`, `numpy` и `pandas` | 
-| 6 | — | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) (5 баллов) | Модули `matplotlib` и `seaborn` | 
+| 6 | — | [Блокнот](https://colab.research.google.com/drive/1klESOSYu5BgGPX-3SSqtOQ6ipYadVkFQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/12lh2naOZ77mlfkrjf3j1qYDEIdDH1HGH?usp=sharing) (10 баллов) | Модули `matplotlib` и `seaborn` | 
 
 ## Филогенетический анализ
 
