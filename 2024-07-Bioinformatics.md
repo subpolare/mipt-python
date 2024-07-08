@@ -30,15 +30,15 @@
 
 ❗ **Как проходят пары?** Занятия будут двух типов: лекционные и семинарские. На семинарах будем работать с базами данных и онлайн-программами для выравнивания и построения филогенетических деревьев, а на лекциях будем погружаться в тонкости их работы. 
 
-✨ **Домашние задания.** В этом блоке два задания: [домашнее](https://disk.yandex.ru/d/EwOYW0IOBqgpwA) (10 баллов) и [в классе](https://disk.yandex.ru/i/ZsLp_5ZLMBJCOg) (на последнем семинаре, 5 баллов). Они также будут засчитаны как дополнительные баллы к результатам олимпиады в конце смены. 
+✨ **Домашние задания.** В этом блоке два задания: [домашнее](https://disk.yandex.ru/d/EwOYW0IOBqgpwA) (10 баллов) и в классе (на последнем семинаре, 5 баллов). Они также будут засчитаны как дополнительные баллы к результатам олимпиады в конце смены. 
 
 |  | Дата | Материалы | Что было на занятии? |
 | :------: | :------: | ------ | ------ | 
 | 1 | 17.07 | [Презентация](https://disk.yandex.ru/d/p3SncQYYcKczHg) | Введение в эволюцию последовательностей | 
 | 2 | 20.07 | [Презентация](https://disk.yandex.ru/i/F8Jxi1ODsD-ZlQ); [NCBI](https://www.ncbi.nlm.nih.gov), [UniProt](https://www.uniprot.org), [PDB](https://www.rcsb.org) | Базы данных и математичесие основы выравниваний  | 
 | 3 | 22.07 | [Презентация](https://disk.yandex.ru/i/O1SK1inD5e_hVg); [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi), [PSA](https://www.ebi.ac.uk/Tools/psa/), [MSA](https://www.ebi.ac.uk/Tools/msa/), [Jalview](https://www.jalview.org/download/windows/) | BLAST и выравнивания | 
-| 4 | 23.07 | [Презентация](https://disk.yandex.ru/i/53ddjKVL-yQ31g) | Математические основы филогенетики |
-| 5 | 24.07 | [Tree](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/), [MEGA](https://www.megasoftware.net) | Построение деревьев | 
+| 4 | 23.07 | [Презентация](https://disk.yandex.ru/i/53ddjKVL-yQ31g); [Tree](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/), [MEGA](https://www.megasoftware.net) | Математические основы филогенетики |
+| 5 | 24.07 | [Персональные FASTA-последовательности](https://disk.yandex.ru/d/EwOYW0IOBqgpwA) | Построение деревьев | 
 
 ## Дополнительные материалы
 
