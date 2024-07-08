@@ -36,7 +36,7 @@
 | :------: | :------: | ------ | ------ | 
 | 1 | 17.07 | [Презентация](https://disk.yandex.ru/d/p3SncQYYcKczHg) | Введение в эволюцию последовательностей | 
 | 2 | 20.07 | [Презентация](https://disk.yandex.ru/i/F8Jxi1ODsD-ZlQ); [NCBI](https://www.ncbi.nlm.nih.gov), [UniProt](https://www.uniprot.org), [PDB](https://www.rcsb.org) | Базы данных и математичесие основы выравниваний  | 
-| 3 | 22.07 | [Презентация](https://disk.yandex.ru/i/O1SK1inD5e_hVg); ([BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)), [PSA](https://www.ebi.ac.uk/Tools/psa/), [MSA](https://www.ebi.ac.uk/Tools/msa/), [Jalview](https://www.jalview.org/download/windows/) | BLAST и выравнивания | 
+| 3 | 22.07 | [Презентация](https://disk.yandex.ru/i/O1SK1inD5e_hVg); [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi), [PSA](https://www.ebi.ac.uk/Tools/psa/), [MSA](https://www.ebi.ac.uk/Tools/msa/), [Jalview](https://www.jalview.org/download/windows/) | BLAST и выравнивания | 
 | 4 | 23.07 | [Презентация](https://disk.yandex.ru/i/53ddjKVL-yQ31g) | Математические основы филогенетики |
 | 5 | 24.07 | [Tree](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/), [MEGA](https://www.megasoftware.net) | Построение деревьев | 
 
