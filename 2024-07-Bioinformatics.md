@@ -20,8 +20,8 @@
 
 |  | Дата | Материалы | Домашка | Что было на занятии? | 
 | :------: | :------: | :------: | :------: | ------ |
-| 1 | 17.07 | [Блокнот](https://colab.research.google.com/drive/1FNm7qUJJ4NmorT_FN5Qr0uYSxLIf1hjQ?usp=sharing) | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) (3 балла) | Основные типы переменных в Python | 
-| 2 | 18.07 | [Блокнот](https://colab.research.google.com/drive/1toxkOC-67pY38gG2k1X-hmurRS37jslq?usp=sharing) | [Задания](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) (3 балла) | Условные операторы `if`, `elif`, `else` и циклы `for` и `while` |
+| 1 | 17.07 | — | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) (3 балла) | Основные типы переменных в Python | 
+| 2 | 18.07 | [Блокнот](https://colab.research.google.com/drive/1u1AYNs3URE57MbYAw0IsPhwvSLVS5qUj?usp=sharing) | [Задания](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) (3 балла) | Условные операторы `if`, `elif`, `else` и циклы `for` и `while` |
 | 3 | 19.07 | [Блокнот](https://colab.research.google.com/drive/1OFYOCV9XR9b0iXKmtTs51fH9ycldqZaA?usp=sharing) | [Задания](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) (4 балла) | Массивы и работа с файлами | 
 |  |  |  |  |  |  |  |
 | 4 | 20.07 | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) (5 баллов) | Форматы CSV и FASTA, работа с файлами | 
