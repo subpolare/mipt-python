@@ -20,7 +20,7 @@
 
 |  | Дата | Материалы | Домашка | Что было на занятии? | 
 | :------: | :------: | :------: | :------: | ------ |
-| 1 | 17.07 | — | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) (3 балла) | Основные типы переменных в Python | 
+| 1 | 17.07 | — | [Задания](https://colab.research.google.com/drive/1IZrKNB_qbbPn-tbQcqs1u92llNN-dncw?usp=sharing) (3 балла) | Введелние в языки программирования | 
 | 2 | 18.07 | [Блокнот](https://colab.research.google.com/drive/1u1AYNs3URE57MbYAw0IsPhwvSLVS5qUj?usp=sharing) | [Задания](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) (3 балла) | Базовые функции, условные операторы и циклы |
 | 3 | 19.07 | [Блокнот](https://colab.research.google.com/drive/1OFYOCV9XR9b0iXKmtTs51fH9ycldqZaA?usp=sharing) | [Задания](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) (4 балла) | Массивы и работа с файлами | 
 |  |  |  |  |  |  |  |
