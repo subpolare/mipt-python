@@ -24,7 +24,6 @@
 | 2 | 18.07 | [Блокнот](https://colab.research.google.com/drive/1u1AYNs3URE57MbYAw0IsPhwvSLVS5qUj?usp=sharing) | [Задания](https://colab.research.google.com/drive/1YgFAvtDf819gt-_z133LLXC9y8zbTQ35?usp=sharing) и [Ответы](https://colab.research.google.com/drive/1cr89eyvNPlGTfFAWU5PUdSHmGut4GYiI?usp=sharing) | Базовые функции, условные операторы и циклы |
 | 3 | 19.07 | [Блокнот](https://colab.research.google.com/drive/1OFYOCV9XR9b0iXKmtTs51fH9ycldqZaA?usp=sharing) | [Задания](https://colab.research.google.com/drive/1-WqB5sP0zeWT2kzmHQN8cHZE4gH8x99v?usp=sharing) и [Ответы](https://colab.research.google.com/drive/1Da3KFbwtjo_JB0eSeIuP2tkwq4aXU1LK?usp=sharing) | Массивы и работа с файлами | 
 | 4 | 20.07 | [Блокнот](https://colab.research.google.com/drive/1pcX2ZYo3Mbg4wlXDRWXqS69o1Q5aSkMI?usp=sharing) | [Задания](https://colab.research.google.com/drive/1bcLU0T5td7JuqpzIhyYakINb9zY271sU?usp=sharing) и [Ответы](https://colab.research.google.com/drive/11Q37neyf1ZcVmlg9Z1d6WMgeLWtSijLK?usp=sharing) | Форматы CSV и FASTA, работа с файлами | 
-|  |  |  |  |  |  |  |
 | — | 26.07 | — | [Задания](https://colab.research.google.com/drive/1OfVRtI926NGd6u5tA5OYJ7u7c8DyytXv?usp=sharing) и [Ответы](https://colab.research.google.com/drive/10cFf160N5nSxfiWz50pZZzOGxQ-lsh1L?usp=sharing) | Задания олимпиады (часть с Python) | 
 |  |  |  |  |  |  |  |
 | 5 | — | [Блокнот](https://colab.research.google.com/drive/1izKcyc14rS00G-KQ4skvBlMkHdunG8KI?usp=sharing) | — | Модули `random`, `math`, `numpy` и `pandas` | 
